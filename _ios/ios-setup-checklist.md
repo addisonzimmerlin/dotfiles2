@@ -1,0 +1,303 @@
+# iOS setup checklist
+
+## Settings
+
+- Wi-Fi
+	- [ ] Join Wi-Fi network
+		- [ ] Private Address: off
+- Personal Hotspot
+	- [ ] Allow Others to Join: on
+- Notifications
+	- Messages
+		- Sounds: Keys
+		- Announce Messages with Siri
+			- Announce Messages with Siri: on
+			- Announce Messages From: Contacts
+		- Options
+			- Show Previews: When Unlocked
+	- Government Alerts
+		- [ ] AMBER Alerts: off
+	- August, Ring, and Nest
+		- [ ] Allow Notifications: on
+		- Alerts
+			- [ ] Lock Screen: checked
+			- [ ] Notification Center: checked
+			- [ ] Banners: checked
+			- [ ] Banner Style: Persistent
+		- [ ] Sounds: on
+		- [ ] Badges: on
+		- Options
+			- [ ] Show Previews: When Unlocked
+- Sounds & Haptics
+	- [ ] Keyboard Clicks: off
+- Do Not Disturb
+	- Phone
+		- [ ] Allow Calls From: Favorites
+		- [ ] Repeated Calls: on
+	- Do Not Disturb While Driving
+		- [ ] Activate: Manually
+		- [ ] Auto-Reply To: Favorites
+		- [ ] Auto-Reply:
+		```
+		Auto-Reply:
+
+		I'm focusing on a work project right now, so FYI, it may take me a little while longer than normal to respond 👨‍💻
+		```
+- General
+	- Airplay & Handoff
+		- [ ] Handoff: off
+- Control Center
+	- [ ] Included Controls
+		- Alarm
+		- Stopwatch
+		- Timer
+		- Calculator
+		- Flashlight
+		- Magnifier
+		- Camera
+		- Code Scanner
+		- Apple TV Remote
+		- Low Power Mode
+		- Screen Recording
+		- Voice Memos
+		- Hearing
+		- Notes
+		- Dark Mode
+- Display & Brightness
+	- Appearance
+		- [ ] Automatic: on
+	- Night Shift
+		- [ ] Scheduled: on
+			- [ ] From: 8:00 PM
+			- [ ] To: 6:00 AM
+	- [ ] Auto-Lock: Never
+- Accessibility
+	- General
+		- [ ] Accessibility Shortcut: Color Filters
+- Wallpaper
+	- [ ] Choose a New [Wallpaper](https://www.dropbox.com/s/db3cg1ykkkcjf87/iPhone%20Wallpaper.jpg?dl=0) (Set Both)
+- Siri & Search
+	- Ask Siri
+		- [ ] Listen for "Hey Siri": on
+- Face ID & Passcode
+	- Use Face ID For:
+		- [ ] iPhone Unlock: on
+		- [ ] iTunes & App Store: on
+		- [ ] Apple Pay: on
+		- [ ] Password Autofill: off
+- Emergency SOS
+	- [ ] Call with Side Button: on
+- Privacy
+	- Tracking
+		- [ ] Allow Apps to Request to Track: off
+- App Store
+	- Automatic Downloads
+		- [ ] Apps: off
+		- [ ] App Updates: on
+- Mail
+	- [ ] Install profiles
+	- Message List
+		- Swipe Options
+			- [ ] Swipe Left: Mark as Read
+			- [ ] Swipe Right: Archive
+	- Composing
+		- [ ] [Signature](https://github.com/evan-klein/email/blob/master/signatures.md)
+- Contacts
+	- [ ] Sort Order: First, Last
+- Calendar
+	- [ ] Default Calendar: Appointments
+- Voice Memos
+	- Voice Memos Settings
+		- [ ] Audio Quality: Lossless
+- Phone
+	- Calls
+		- [ ] Calls on Other Devices: Off
+		- [ ] Silence Unknown Callers: On
+- Messages
+	- [ ] Send & Receive: (Phone Number)
+	- [ ] Share Name and Photo: Off
+	- [ ] Shared with You: Off
+	- [ ] Text Message Forwarding
+	- [ ] Send Read Receipts: off
+	- [ ] Send as SMS: on
+	- Audio Messages
+		- [ ] Expire: Never
+- Safari
+	- General
+		- Autofill
+			- [ ] Credit Cards: on
+			- Saved Credit Cards
+				- [ ] Add Credit Card
+		- [ ] Frequently Visited Sites: off
+- Health
+	- Medical Details
+		- [ ] Health Details
+		- [ ] Medical ID
+- Photos
+	- iCloud
+		- [ ] iCloud Photos: off
+		- [ ] Shared Albums: on
+- Camera
+	- [ ] Formats: Most Compatible
+	- [ ] Record Video: 4K at 30 fps
+
+## Home screen
+
+- Bottom row
+	- Phone
+		- Phone
+		- Softphone
+		- FaceTime
+		- SUC
+	- Messaging
+		- Messages
+		- Signal
+		- Slack
+		- Discord
+	- Email
+		- Mail
+		- Gmail
+		- Fastmail
+	- Safari
+- Page 1
+	- Row 1
+		- Calendar
+		- Days Since
+		- Contacts
+		- TODO
+			- Things
+			- Reminders
+	- Row 2
+		- Notes
+		- Clock
+		- Camera
+		- Photos
+	- Row 3
+		- Location-Based
+			- Google Maps
+			- Maps
+			- Waze
+			- Alto
+			- Uber
+			- Lyft
+			- Bird
+			- Yelp
+			- Fandango
+			- FlightAware
+			- Find My
+		- Weather
+			- Weather
+			- Weather Radar
+			- AirCare
+			- AirVisual
+		- Health
+			- Health
+			- KP
+			- Fitness
+			- Nike Run Club
+			- Strava
+			- StretchLab
+		- Money
+			- Wells Fargo
+			- Capital One
+			- Venmo
+			- Stripe
+	- Row 4
+		- Food
+			- DoorDash
+			- ChowNow
+			- Grubhub
+			- Postmates
+			- Ritual
+			- Instacart
+			- Chipotle
+			- Philz Coffee
+			- Starbucks
+			- Jersey Mike's
+		- Spotify
+		- Audio
+			- Music
+			- Podcasts
+			- Brain.fm
+			- Pandora
+			- iHeart
+			- Amazon Music
+			- NPR
+			- NPR One
+		- Amazon
+	- Row 5
+		- Dropbox
+		- Google
+			- Chrome
+			- Drive
+			- Docs
+			- Sheets
+			- Voice
+			- Translate
+		- Work
+			- LinkedIn
+			- Prompt
+			- PIA VPN
+			- August
+			- Nest
+			- AssetTiger
+			- NDI Monitor
+			- NDICam
+		- Home
+			- Home
+			- Ring
+			- LIFX
+			- Amazon Alexa
+	- Row 6
+		- 1Password
+		- Authy
+		- App Store
+		- Settings
+- Page 2
+	- Row 1
+		- Calculator
+		- Measure
+		- Compass
+		- Remote
+	- Row 2
+		- Voice Memos
+		- Wallet
+		- Watch
+		- Translate
+	- Row 3
+		- Books
+		- Shortcuts
+		- Files
+- Page 3
+	- Row 1
+		- News
+			- AP News
+			- Citizen
+			- Nextdoor
+		- Streaming
+			- TV
+			- Hulu
+			- Netflix
+			- HBO Max
+			- Prime Video
+			- Paramount+
+			- CBS News
+			- YouTube
+			- iTunes Store
+		- Pinterest
+		- Etsy
+	- Row 2
+		- Pinner
+
+## Etc
+
+- Subscribe to:
+	- [ ] [SMAlerts](http://www.smalerts.net/)
+	- [ ] [Monitoring system](https://github.com/rundowncreator/rc/blob/master/cfg/cfg.json)
+	- [ ] [Namecheap status updates](https://www.namecheap.com/status-updates/)
+	- [ ] [DNSMadeEasy status updates](https://www.dnsstatus.com/)
+	- [ ] [Linode status updates](https://status.linode.com/)
+	- [ ] [DigitalOcean status updates](https://status.digitalocean.com/)
+	- [ ] [Mailgun status updates](https://status.mailgun.com/)
+	- [ ] [Fastmail status updates](https://www.fastmailstatus.com/)
+	- [ ] [GitHub status updates](https://www.githubstatus.com/)
