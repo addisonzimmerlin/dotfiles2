@@ -275,6 +275,13 @@
 		- [ ] Smart quotes: unchecked
 		- [ ] Smart dashes: unchecked
 
+#### Terminal
+
+- `Terminal` › `Settings...`
+	- Profiles
+		- Shell
+			- [ ] When the shell exits: Close if the shell exited cleanly
+
 ## Third-party applications
 
 #### 1Password
