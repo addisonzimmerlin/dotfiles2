@@ -20,4 +20,4 @@ alias beep='echo -e "\a"'
 alias squashlater='git commit -m "Progress commit; squash later" && echo "✅"'
 
 # Add to PATH
-export PATH=$PATH:/usr/local/bin:/opt/homebrew/opt/php/bin
+export PATH=$PATH:/usr/local/bin:/opt/homebrew/opt/php/bin:/Applications/Sublime\ Text.app/Contents/SharedSupport/bin
