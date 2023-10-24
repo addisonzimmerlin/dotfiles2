@@ -18,6 +18,7 @@ PROMPT="$style_username%n$style_reset$style_at@$style_reset$style_host%m$style_r
 alias resetperms='chmod -R 775 ~/git/ && echo "✅"'
 alias beep='echo -e "\a"'
 alias squashlater='git commit -m "Progress commit; squash later" && echo "✅"'
+alias s='cd ..'
 
 # Add to PATH
 export PATH=$PATH:/usr/local/bin:/opt/homebrew/opt/php/bin:/Applications/Sublime\ Text.app/Contents/SharedSupport/bin
