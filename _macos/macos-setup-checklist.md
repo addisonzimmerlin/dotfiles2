@@ -523,9 +523,11 @@
 - [ ] Signal
 - [ ] Slack
 - [ ] Discord
+- [ ] OpenPhone
 - [ ] FaceTime
 - [ ] Calendar
 - [ ] Contacts
+- [ ] Find My
 - [ ] Notes
 - [ ] Things
 - [ ] Reminders
