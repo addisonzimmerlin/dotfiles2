@@ -228,9 +228,9 @@
 - [ ] `View` › `Show Calendar List`
 - [ ] Run:
 	```sh
-	curl https://raw.githubusercontent.com/evan-klein/dotfiles/master/scripts/ical-days-in-week.sh > ~/ical-days-in-week.sh
-	curl https://raw.githubusercontent.com/evan-klein/dotfiles/master/scripts/ical-days-in-week-14.sh > ~/Desktop/ical14.command
-	curl https://raw.githubusercontent.com/evan-klein/dotfiles/master/scripts/ical-days-in-week-7.sh > ~/Desktop/ical7.command
+	curl https://raw.githubusercontent.com/evan-klein/dotfiles/master/_macos/ical-days-in-week.sh > ~/ical-days-in-week.sh
+	curl https://raw.githubusercontent.com/evan-klein/dotfiles/master/_macos/ical-days-in-week-14.sh > ~/Desktop/ical14.command
+	curl https://raw.githubusercontent.com/evan-klein/dotfiles/master/_macos/ical-days-in-week-7.sh > ~/Desktop/ical7.command
 	chmod 755 ~/Desktop/ical*.command
 	```
 
