@@ -297,7 +297,7 @@
 			- [ ] Enable DNS over HTTPS: unchecked
 	- Home
 		- [ ] Homepage and new windows: Custom URLs...
-			- [ ] `file:///Users/evan/Production%20Control%20Dropbox/Evan%20Klein/www/homepage.html`
+			- [ ] `file:///Users/evan/Production%20Control%20Dropbox/Evan%20Klein/www/homepage.html|file:///Users/evan/Production%20Control%20Dropbox/Evan%20Klein/www/clipboard/clipboard.html|https://www.poe.com/`
 		- [ ] New tabs: Blank Page
 	- Privacy & Security
 		- Logins and Passwords
