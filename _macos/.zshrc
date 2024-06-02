@@ -17,6 +17,7 @@ PROMPT="$style_username%n$style_reset$style_at@$style_reset$style_host%m$style_r
 # Shortcuts
 alias resetperms='chmod -R 775 ~/git/ && echo "✅"'
 alias beep='echo -e "\a"'
+alias beep3='echo -e "\a" && sleep 0.2 && echo -e "\a" && sleep 0.2 && echo -e "\a"'
 alias squashlater='git commit -m "Progress commit; squash later" && echo "✅"'
 alias s='cd ..'
 
