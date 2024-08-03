@@ -14,7 +14,7 @@ github_email=$1
 echo_debug "Checking command-line arguments..."
 if (
 	[ "$github_email" = "**@e***k****.com" ] || [ "$github_email" = "" ]
-) ; then
+); then
 	echo_error "Error: you must provide the email address associated with your GitHub account as a command-line argument"
 	echo_error "Usage: sh ubuntu-desktop-setup.sh YOUR_GITHUB_EMAIL_ADDRESS"
 	echo_error 'Example: sh ubuntu-desktop-setup.sh "you@yours.com"'

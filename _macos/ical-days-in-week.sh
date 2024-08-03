@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Check this script is running on macOS
-if [ `uname` != "Darwin" ] ; then
+if [ `uname` != "Darwin" ]; then
 	echo 'Unsupported operating system'
 	exit 1
 fi
